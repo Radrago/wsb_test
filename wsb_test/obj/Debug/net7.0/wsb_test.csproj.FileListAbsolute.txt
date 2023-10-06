@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\bin\Debug\net7.0\wsb_test.exe
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\bin\Debug\net7.0\wsb_test.deps.json
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\bin\Debug\net7.0\wsb_test.runtimeconfig.json
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\bin\Debug\net7.0\wsb_test.dll
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\bin\Debug\net7.0\wsb_test.pdb
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.AssemblyInfo.cs
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.dll
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\refint\wsb_test.dll
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.pdb
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\wsb_test.genruntimeconfig.cache
+C:\Users\Student\Desktop\projekt\wsb_test\wsb_test\obj\Debug\net7.0\ref\wsb_test.dll
